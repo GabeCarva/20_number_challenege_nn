@@ -13,7 +13,7 @@ To play the game simulation run the game_simulation.py
 To train the model, the file game_simulation.py must be in the working directory.
 
 ## Results
-![alt text](image.png)
+![Results Graph](image.png)
 
 ## Model Description
 
